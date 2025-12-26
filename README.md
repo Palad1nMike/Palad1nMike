@@ -1,4 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://64.media.tumblr.com/b5d13db780080a5a59ab4dc6fd6b6c4d/1dda9738a6551be1-49/s500x750/7fec616b6dca8205002848b18e06425172ed577a.gif" />
+</p>
+
+
+<h5 align="center">'ɪ, ɪ ᴄᴀɴ ʀᴇᴍᴇᴍʙᴇʀ ꜱᴛᴀɴᴅɪɴɢ ʙʏ ᴛʜᴇ ᴡᴀʟʟ, ᴀɴᴅ ᴛʜᴇ ɢᴜɴꜱ ꜱʜᴏᴛ ᴀʙᴏᴠᴇ ᴏᴜʀ ʜᴇᴀᴅꜱ, ᴀɴᴅ ᴡᴇ ᴋɪꜱꜱᴇᴅ ᴀꜱ ᴛʜᴏᴜɢʜ ɴᴏᴛʜɪɴɢ ᴄᴏᴜʟᴅ ꜰᴀʟʟ'
+<h6 align="center">Profile in the works
+
 
 <!--
 **Palad1nMike/Palad1nMike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
